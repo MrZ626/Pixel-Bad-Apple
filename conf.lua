@@ -8,8 +8,6 @@ function love.conf(t)
 	W.borderless=false
 	W.resizable=true
 	W.msaa=false
-	W.depth=0
-	W.stencil=1
 	W.highdpi=true
 
 	local M=t.modules
